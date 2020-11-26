@@ -1,5 +1,5 @@
 # 0
-Invalidation for unknown reason on 11/26/2020.
+Update installation parameters on 11/26/2020.
 
 # 1 What's this?
 
@@ -67,7 +67,7 @@ After restarting it is activated successfully:
 
 # 6 Log
 # Update 11/26/2020
-Temporary invalidation for unknown reason.
+Update installation parameters..
 
 # Update 10/28/2020
 Update `jar` and the argument.
